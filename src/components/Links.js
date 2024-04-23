@@ -4,8 +4,8 @@ function Links({ linkedin, github }) {
   return (
     <div>
       <h3>Links</h3>
-      <a href={github}>{github}</a>
-      <a href={linkedin}>{linkedin}</a>
+      <a href={github}>https://github.com/liza</a>
+      <a href={linkedin}>https://www.linkedin.com/in/liza/</a>
     </div>
   );
 }
